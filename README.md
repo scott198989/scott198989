@@ -9,7 +9,7 @@
 
 - ##Content
 
-  Through out my various personal repositories you will find several projects; some of which where from my time as a student at
+  Through out my various personal repositories you will find several projects; some of which were from my time as a student at
   LEARN Academy, others are projects I have done on my own.
   All either have simple HTML, CSS, JavaScript, some are front end only applications using React.js, others are full stack
   applications using React.js and Rails. The dependencies needed to run
