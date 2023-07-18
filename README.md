@@ -1,8 +1,8 @@
 - 👋 Hi, I am Scott Tuschl, and thank you for viewing my GitHub page.
-- 👀 I am a full stack web developer with experience in Ract.js and Ruby on Rails (PostgreSQL) frame works.
-- 🌱 I’m currently furthering my knowledge base on the intrecasies of these languages; JavaScript,, PostgreSQL, and testing 
+-  I am a full stack web developer with experience in Ract.js and Ruby on Rails (PostgreSQL) frame works.
+-  I’m currently furthering my knowledge base on the intrecasies of these languages; JavaScript,, PostgreSQL, and testing 
      applications and suites.
-- 💞️ I enjoy creating facisinating, repsonvie webpages that immerse the user in a type of lasting experience instead or simply 
+-  I enjoy creating facisinating, repsonvie webpages that immerse the user in a type of lasting experience instead or simply 
      just visiting a web page.
 - 📫 I can be easily reached via email scott-tuschl@comcast.net, and once again, THANK YOU very much for taking the time to visit
      my GitHub!
