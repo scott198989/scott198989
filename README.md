@@ -6,6 +6,6 @@
 
   ## Content & Contact:
   
--  Throughout my various personal repositories, you will find several projects; some of which were from my time as a student at LEARN Academy, and others are projects I have done on my own. All either have simple HTML, CSS, and JavaScript; some are front-end only applications using React.js, while others are full-stack applications using React.js and Rails. The dependencies needed to run these applications are listed in their respective README.md files.
+-  Throughout my various personal repositories, you will find several projects; some of which were from my time as a student at LEARN Academy, and others are projects I have done on my own. All either have simple HTML, CSS, and JavaScript; some are front-end only applications using React.js, while others are full-stack applications using React.js and Rails. The dependencies needed to run these applications are listed in their respective README.md files.  Please feel free to visit the Project Repositories README to find a full list of links to my repo's.  
 
   Please feel free to contact me via email at scott-tuschl@comcast.net , connect with me on linkedin at https://www.linkedin.com/in/scott-tuschl , or visit my portfolio at https://www.scott-tuschl.com
