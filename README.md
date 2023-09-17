@@ -1,3 +1,5 @@
+![Header Image](link_to_your_header_image.png)
+
 - 👋 Hi, I am Scott Tuschl, and thank you for viewing my GitHub page.
 -  I am a full-stack web developer with experience in React.js and Ruby on Rails (PostgreSQL) frameworks.
 -  I’m currently furthering my knowledge base on the intricacies of these languages: HTML, CSS, JavaScript, Ruby, PostgreSQL, and testing applications and suites.
