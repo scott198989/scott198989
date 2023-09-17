@@ -1,4 +1,3 @@
-![Header Image](www.scott-tuschl.com)
 
 - 👋 Hi, I am Scott Tuschl, and thank you for viewing my GitHub page.
 -  I am a full-stack web developer with experience in React.js and Ruby on Rails (PostgreSQL) frameworks.
@@ -12,3 +11,7 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=scott198989&show_icons=true&theme=THEME_NAME)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=scott198989&layout=compact&theme=THEME_NAME)
+
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=Google-Chrome&logoColor=white)](https://www.scott-tuschl.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/scott-tuschl)
