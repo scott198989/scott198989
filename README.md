@@ -1,4 +1,4 @@
-![Header Image](link_to_your_header_image.png)
+![Header Image](www.scott-tuschl.com)
 
 - 👋 Hi, I am Scott Tuschl, and thank you for viewing my GitHub page.
 -  I am a full-stack web developer with experience in React.js and Ruby on Rails (PostgreSQL) frameworks.
