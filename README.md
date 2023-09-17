@@ -16,7 +16,7 @@ Crafting immersive web pages that leave an indelible mark. Currently honing my s
 
 Explore my diverse range of projects, from foundational web pages to intricate applications. Check out the READMEs for in-depth insights!
 
-[Full List of Projects](link_to_Project_Repositories_README)
+[Full List of Projects](https://github.com/scott198989/Project-Repo-Links.git)
 </details>
 
 ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=scott198989&show_icons=true&theme=slateorange)
