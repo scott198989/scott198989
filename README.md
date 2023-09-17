@@ -10,3 +10,12 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=scott198989&show_icons=true&theme=THEME_NAME)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=scott198989&layout=compact&theme=THEME_NAME)
+### Welcome to [Your Name]'s Console 🖥️
+
+- Type `!about` to know more about me.
+- Type `!projects` to see my projects.
+- Type `!contact` to get in touch.
+
+![Your input here]
+
+> **Note:** This is a simulated interaction. But it'd be cool, right?
