@@ -8,12 +8,13 @@ Full-stack Developer | React.js & Ruby on Rails Maestro
 <details>
 <summary>🧠 About Me</summary>
 
-I believe in designing **digital experiences** that leave a lasting impression. I'm not just coding; I'm narrating stories, solving problems, and bridging gaps. 
+I believe in designing **digital experiences** that leave a lasting impression. I'm not just coding; I'm narrating stories, solving problems, and bridging gaps.
 
 Diving deep into:
 - **Front-end**: HTML, CSS, JavaScript, React.js
-- **Back-end**: Ruby on Rails, PostgreSQL
+- **Back-end**: Ruby on Rails, Python, PostgreSQL
 - **Testing**: Various robust application testing suites
+- **Data Engineering**: BigQuery, Apache Beam
 
 **Connect with Me:**
 - 🌍 [Portfolio](https://www.scott-tuschl.com)
@@ -47,6 +48,8 @@ I value the fusion of design and functionality, ensuring every project I tackle 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![RSpec](https://img.shields.io/badge/RSpec-CC342D?logo=ruby&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4184EF?logo=google-cloud&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache_Beam-EC4D34?logo=apache&logoColor=white)
 </details>
 
 ---
