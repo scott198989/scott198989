@@ -41,6 +41,7 @@ I value the fusion of design and functionality, ensuring every project I tackle 
 ![](https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 </details>
 
 ---
