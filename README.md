@@ -5,13 +5,6 @@
 
 ---
 
-# 🚀 Scott Tuschl 🚀
-### 💬 _"Crafting Code That Transforms Experiences"_
-
-👨‍💻 **Full-stack Developer** | 🌟 **React.js & Ruby on Rails Maestro**
-
----
-
 <details>
 <summary>👤 <strong>About Me</strong></summary>
 
