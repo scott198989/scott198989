@@ -1,63 +1,69 @@
-# Scott Tuschl 🚀
-### _"Crafting Code That Transforms Experiences"_
+# 🚀 Scott Tuschl 🚀
+### 💬 _"Crafting Code That Transforms Experiences"_
 
-Full-stack Developer | React.js & Ruby on Rails Maestro
+👨‍💻 **Full-stack Developer** | 🌟 **React.js & Ruby on Rails Maestro**
 
 ---
 
 <details>
-<summary>🧠 About Me</summary>
+<summary>👤 <strong>About Me</strong></summary>
 
-I believe in designing **digital experiences** that leave a lasting impression. I'm not just coding; I'm narrating stories, solving problems, and bridging gaps.
+🌠 **"I'm not just coding; I'm an artist painting the digital canvas."**
 
-Diving deep into:
-- **Front-end**: HTML, CSS, JavaScript, React.js
-- **Back-end**: Ruby on Rails, Python, PostgreSQL
-- **Testing**: Various robust application testing suites
-- **Data Engineering**: BigQuery, Apache Beam
+Deep dives into:
+- 🖥️ **Front-end**: HTML, CSS, JavaScript, React.js
+- 🛠️ **Back-end**: Ruby on Rails, Python, PostgreSQL
+- 🧪 **Testing**: Robust application testing with Jest, RSpec
+- 📈 **Data Engineering**: BigQuery, Apache Beam
 
-**Connect with Me:**
-- 🌍 [Portfolio](https://www.scott-tuschl.com)
-- 🤝 [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
-- ✉️ [Email Me](mailto:scott-tuschl@comcast.net)
-</details>
+**Reach Out & Connect:**
+- 🌐 [Portfolio](https://www.scott-tuschl.com)
+- 👔 [LinkedIn](https://www.linkedin.com/in/scott-tuschl)
+- 📧 [Email Me](mailto:scott-tuschl@comcast.net)
 
-<details>
-<summary>🔍 Projects Spotlight</summary>
-
-From foundational web designs to intricate applications, my repository is a canvas of exploration, innovation, and growth. Every project carries a unique challenge and a tale of its own.
-
-🔗 [Dive Deeper into My Projects](https://github.com/scott198989/Project-Repo-Links.git)
 </details>
 
 ---
 
 <details>
-<summary>🎨 Design & Tools Aesthetics</summary>
+<summary>🎯 <strong>Projects Spotlight</strong></summary>
 
-I value the fusion of design and functionality, ensuring every project I tackle not only works seamlessly but also looks aesthetically pleasing. Here are some tools and technologies that empower me:
+🔥 **"Every repo is a new adventure, a new lesson learned."**
+
+👀 Check out my treasure trove of projects that span from web design frameworks to full-blown applications.
+
+🔗 [Explore My Projects](https://github.com/scott198989/Project-Repo-Links.git)
+
+</details>
+
+---
+
+<details>
+<summary>🔧 <strong>Design & Tools Aesthetics</strong></summary>
+
+🎨 **"Where design meets functionality, magic happens."**
 
 ![](https://img.shields.io/badge/React.js-282C34?logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![RSpec](https://img.shields.io/badge/RSpec-CC342D?logo=ruby&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4184EF?logo=google-cloud&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-EC4D34?logo=apache&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![](https://img.shields.io/badge/RSpec-CC342D?logo=ruby&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white)
+![](https://img.shields.io/badge/BigQuery-4184EF?logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Apache_Beam-EC4D34?logo=apache&logoColor=white)
 </details>
 
 ---
 
-![Scott's GitHub Overview](https://github-readme-stats.vercel.app/api?username=scott198989&show_icons=true&theme=slateorange)
-![Languages Mastery](https://github-readme-stats.vercel.app/api/top-langs/?username=scott198989&layout=compact&theme=slateorange)
+![Scott's Coding Journey](https://github-readme-stats.vercel.app/api?username=scott198989&show_icons=true&theme=slateorange)
+![Languages Mastered](https://github-readme-stats.vercel.app/api/top-langs/?username=scott198989&layout=compact&theme=slateorange)
 
 ---
 
-> _"In the world of development, it's not about how many languages you know. It's about the stories you can narrate with them."_
+> 🌌 **"In the tech cosmos, it's not the quantity but the quality of your language mastery that counts."**
 
